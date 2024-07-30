@@ -1,6 +1,5 @@
 function fibo(n){
     if(n <= 1 ){
-        
         return n
     }
     else{
@@ -8,4 +7,4 @@ function fibo(n){
     }
 
 }
-console.log(fibo(2))
+console.log(fibo(7))
